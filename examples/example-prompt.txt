@@ -1,0 +1,6 @@
+Fix the failing tests in this repository.
+
+- First reproduce the failure and identify the root cause.
+- Make the smallest change that fixes it; do not refactor unrelated code.
+- Run the full test suite and the linter before finishing.
+- Commit in milestones (implementation -> tests -> docs if any).

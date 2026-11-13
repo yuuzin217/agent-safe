@@ -1,0 +1,6 @@
+# Run directories must never be committed: they contain prompts, diffs
+# and copies of working files.
+agy-runs/
+cursor-runs/
+*-runs/
+*.log
